@@ -25,4 +25,4 @@ Accessing the Work List
 ![image](https://user-images.githubusercontent.com/91548582/142396954-e5ec8ba3-b434-4a85-b056-b4c87d8ed618.png)
 
 
-![Group 1255](https://user-images.githubusercontent.com/101202952/158025169-817bb244-f435-4f7c-8f88-064bb4463597.png)
+
